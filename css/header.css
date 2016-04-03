@@ -1,0 +1,31 @@
+
+@media (min-width: 480px){
+	.block header{
+		background-color: rgba(115, 146, 180, 0.87);
+		color: rgba(255, 255, 255, 0.79);
+		position: relative;
+		top: -17px;
+		left: -4%;
+		height: 33px;
+		padding: 5px;
+		-webkit-border-radius: 0 50px 0 0;
+		-moz-border-radius: 0 50px 0 0;
+		border-radius: 0 50px 0 0;
+	}
+
+	.block header h3{
+		line-height: 20px;
+	}
+}
+@media (max-width:480px){
+	.block header{
+		background-color: rgba(115, 146, 180, 0.87);
+		color: rgba(255, 255, 255, 0.79);
+		height: 33px;
+		padding: 5px;
+	}
+
+	.block header h3{
+		line-height: 20px;
+	}
+}

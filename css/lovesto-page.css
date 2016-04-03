@@ -1,0 +1,42 @@
+
+
+
+
+
+
+.more-link{
+	margin: 20px;
+	float: right;
+}
+
+.more-link a{
+	text-decoration: underline;
+	color: blue;
+}
+
+@media (min-width: 481px) {
+
+
+	.block-text{
+		padding: 10px 25px 0;
+		font-size: 16px;
+		line-height: 25px;
+	}
+
+	.gallery{
+		border-top: 1px solid rgb(202, 202, 202);
+		padding: 15px 0;
+		width: 100%
+	}
+
+	.block-content{
+		padding: 5px 10px 15px 10px;
+	}
+
+	.block-content-first{
+		margin-top: 0 !important;
+	}
+
+}
+
+

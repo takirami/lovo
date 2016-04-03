@@ -1,0 +1,54 @@
+nav{
+
+}
+
+nav ul li{
+	float:left;
+	margin: 5px 20px 0 0;
+
+	font-size: 20px;
+	font-weight: bold;
+	color: #ABABAB;	
+}
+
+nav ul li a{
+	color: #333333;
+}
+
+nav ul li a:hover{
+	color: #888888;
+	
+}
+
+
+.menu ul{
+	margin-left: 0;
+	z-index: 200;
+	display: none;
+}
+
+.menu ul li{
+	float: right;
+	list-style: none;
+	padding: 5px 5px 0px 5px;
+	margin-right: 0;
+
+	}
+	
+.menu li:hover{
+	color: #888888;
+	}
+
+nav.secondary ul li{
+	float:left;
+	margin: 5px 20px 0 0;
+
+	font-size: 15px;
+	font-weight: bold;
+	color: #ABABAB;
+}
+
+nav.secondary{
+	border-top: 1px solid #333333;
+}
+

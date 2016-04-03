@@ -1,0 +1,4 @@
+.box-shadow{
+	box-shadow: 0 5px 10px 3px #AAAAAA;
+	box-shadow: 0 5px 10px 3px rgba(46, 46, 46, 0.46);
+}

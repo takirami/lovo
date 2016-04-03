@@ -1,0 +1,20 @@
+BASE HTML
+- Links
+- Base classes
+- Border-radius class
+- <article><nav><side>
+
+
+RESPONSIVITY
+- Viewport
+- Flexible Images
+
+
+BONUS
+- Multibackground
+- Grids
+
+
+LINKS
+
+http://www.findmebyip.com/litmus/
